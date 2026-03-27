@@ -1,0 +1,5 @@
+__pycache__/
+.coverage
+htmlcov/
+temp_test_folder/
+test_guardar_estado/
